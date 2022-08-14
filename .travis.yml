@@ -10,6 +10,7 @@ install:
   - echo "nothing needs to be installed"
 
 # Scripts to be run such as tests
+# Todo: test travis-ci with testing
 before_script:
   - echo "no tests"
 
