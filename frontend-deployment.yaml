@@ -18,7 +18,7 @@ spec:
         app: udagram-frontend
     spec:
       containers:
-      - image: abdelrazekalaa/udagram-frontend
+      - image: abdelrazekalaa/udagram-frontend:latest
         name: udagram-frontend
         imagePullPolicy: Always
         resources:
