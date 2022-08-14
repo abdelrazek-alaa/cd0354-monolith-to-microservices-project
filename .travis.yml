@@ -13,7 +13,7 @@ install:
 # Todo: test travis-ci with testing
 before_script:
   - echo "no tests"
-
+# Todo: try with docker-compose commands
 script:
   - docker --version # print the version for logging
 
